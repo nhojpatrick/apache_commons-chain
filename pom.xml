@@ -235,7 +235,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-checkstyle-plugin</artifactId>
-        <version>2.9.1</version>
+        <version>3.1.2</version>
         <dependencies>
           <dependency>
             <groupId>org.apache.commons</groupId>
@@ -276,7 +276,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-checkstyle-plugin</artifactId>
-        <version>2.9.1</version>
+        <version>3.1.2</version>
         <configuration>
           <configLocation>build-tools/src/main/resources/org/apache/commons/chain2/checkstyle.xml</configLocation>
           <enableRulesSummary>false</enableRulesSummary>
